@@ -1,2 +1,1 @@
-# NT650-
-Scanner 
+MDI GM interface multi scan tool
